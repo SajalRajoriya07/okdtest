@@ -1,5 +1,1 @@
-<?php
-
-print"My test case first";
-
-?>
+print("Hola world 1")
